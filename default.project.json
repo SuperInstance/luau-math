@@ -1,0 +1,12 @@
+{
+  "name": "luau-math",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "luau-math": {
+        "$path": "src"
+      }
+    }
+  }
+}
